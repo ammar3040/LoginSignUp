@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import SignUp from './SignUp'
-import Login from './login'
+import Login from './Login'
 
 function PageHandle() {
     const[isLogin,setIsLogin]=useState(false)
